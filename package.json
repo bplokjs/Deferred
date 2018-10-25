@@ -1,0 +1,27 @@
+{
+    "name": "bplokjs-deferred",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bplokjs/Deferred.git"
+    },
+    "keywords": [
+        "promise",
+        "deferred"
+    ],
+    "files": [
+        "*.js",
+        "*.md"
+    ],
+    "author": "nobo.zhou@foxmail.com",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/bplokjs/Deferred/issues"
+    },
+    "homepage": "https://github.com/bplokjs/Deferred#readme"
+}
